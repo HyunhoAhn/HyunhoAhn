@@ -1,36 +1,22 @@
 # Hi, I'm Hyunho (Francis) Ahn 👋
+**AI/ML Engineer** | M.S. from The Ohio State University
+*Specializing in optimization and deployment of LLMs/CNNs on distributed & edge systems.*
 
-I am an **AI/ML Engineer** specializing in the optimization and deployment of LLMs and CNNs on distributed systems and edge devices. 
-
-With a Master’s in Computer Science & Engineering from The Ohio State University, I bridge the gap between complex model architectures and hardware acceleration.
-
-### 🚀 What Sets Me Apart
-I don't just run benchmarks; I architect solutions that reveal the "why" behind performance metrics.
-* **Proven Excellence:** I consistently deliver top-tier results, achieving the **highest performance review score** for two consecutive years as an AI Performance Engineer Intern at AMD.
-* **Scalable Deployment:** I developed containerized inference environments using Docker and TensorFlow, facilitating efficient performance benchmarking across distributed systems and edge devices.
-* **Full-Stack Optimization:** My expertise spans from high-level model quantization (ONNX Runtime, QDQ) down to system-level bottleneck analysis.
-* **Research-Backed Engineering:** I bring rigorous academic discipline to engineering, having published in top journals (IEEE Transactions on Industrial Informatics, Top 1.8% JCR).
-
+### 🚀 Core Competencies
+I go beyond running benchmarks- I architect solutions to uncover the "why" behind performance.
+* **Proven Excellence:** Achieved the **highest performance review score** for 2 consecutive years at **AMD** (Intern).
+* **Scalable Deployment:** Built containerized benchmarking environments (Docker, TensorFlow) for distributed & edge systems.
+* **Full-Stack Optimization:** Expert in model quantization (ONNX, QDQ) and system-level bottleneck analysis.
+* **Research:** Published in top journals (**IEEE TII**, Top 1.8% JCR).
 
 ### 📊 RyzenAI Performance Logs
-I am currently documenting my experiments and performance measurements on **Ryzen AI 395+ with 128GB RAM**. I treat this repository as a technical blog to share raw insights and optimization techniques.
+Documenting experiments and performance insights on **Ryzen AI 395+ (128GB RAM)**.
 
 🤝 Special thanks to AMD & Framework for sponsoring the hardware (Ryzen AI 395+ Desktop) for this benchmarking project.
 
-* *Coming Soon: Benchmarking setup and initial baselines...*
-* *LINK SOON*
-
----
+* *[Coming Soon] Benchmarking setup and initial baselines...*
 
 ### 🛠 Technical Stack
 * **Languages:** Python, C/C++, CUDA, Assembly (ARM), SQL
-* **AI Frameworks:** PyTorch, TensorFlow
-* **Inference & Optimization:** ONNX, TFLite, OpenVINO, QNN (Qualcomm)
-* **Performance & Profiling:** MLPerf, AI/ML Profiling & Bottleneck Analysis
-* **Tools & DevOps:** Docker, Kubernetes, Git
----
-
-### 📫 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/hyunho-ahn) 
-* [Email](mailto:hyunhoahn7@gmail.com) 
-* [Google Scholar](https://scholar.google.com/citations?user=Imkn_pcAAAAJ&hl=en)
+* **AI & Inference:** PyTorch, TensorFlow, ONNX, TFLite, OpenVINO, QNN
+* **Tools & DevOps:** Docker, Kubernetes, Git, MLPerf
