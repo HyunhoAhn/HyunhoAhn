@@ -4,7 +4,7 @@
 *Specializing in optimization and deployment of LLMs/CNNs on distributed & edge systems.*
 
 ### 🚀 Core Competencies
-I go beyond running benchmarks- I architect solutions to uncover the "why" behind performance.
+I go beyond running benchmarks. I architect solutions to uncover the "why" behind performance.
 * **Proven Excellence:** Achieved the **highest performance review score** for 2 consecutive years at **AMD** (Intern).
 * **Scalable Deployment:** Built containerized benchmarking environments (Docker, TensorFlow) for distributed & edge systems.
 * **Full-Stack Optimization:** Expert in model quantization (ONNX, QDQ) and system-level bottleneck analysis.
