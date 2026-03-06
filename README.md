@@ -15,7 +15,7 @@ Documenting experiments and performance insights on **Ryzen AI 395+ (128GB RAM)*
 
 🤝 Special thanks to AMD & Framework for sponsoring the hardware (Ryzen AI 395+ Desktop) for this benchmarking project.
 
-* *[Coming Soon] Benchmarking setup and initial baselines...*
+* Check this repo! [AI-PC-Perf-Lab](https://github.com/HyunhoAhn/AI-PC-Perf-Lab)
 
 ### 🛠 Technical Stack
 * **Languages:** Python, C/C++, CUDA, Assembly (ARM), SQL
