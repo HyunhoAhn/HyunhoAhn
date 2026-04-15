@@ -20,4 +20,4 @@ Documenting experiments and performance insights on **Ryzen AI 395+ (128GB RAM)*
 ### 🛠 Technical Stack
 * **Languages:** Python, C/C++, CUDA, Assembly (ARM), SQL
 * **AI & Inference:** PyTorch, TensorFlow, ONNX Runtime, Ryzen AI, TFLite, OpenVINO, QNN, TensorRT
-* **Tools & DevOps:** Docker, Kubernetes, Git, MLPerf
+* **Tools & DevOps:** Docker, Kubernetes, Git
