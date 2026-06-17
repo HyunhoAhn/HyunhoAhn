@@ -8,7 +8,7 @@ I go beyond running benchmarks. I architect solutions to uncover the "why" behin
 * **Proven Excellence:** Achieved the **highest performance review score** for 2 consecutive years at **AMD** (Intern).
 * **AI Deployment:** Engineered architecture-optimized models to edge devices and developed containerized inference pipelines for scalable distributed systems.
 * **Full-Stack Optimization:** Expert in model quantization (ONNX, QDQ) and system-level bottleneck analysis.
-* **Research:** Published in top journals (Including **IEEE TII**, Top 1.8% JCR).
+* **Research:** Published in top journals (Including **IEEE TII, FGCS**, Top 1.8% JCR).
 
 ### 📊 RyzenAI Performance Logs
 Documenting experiments and performance insights on **Ryzen AI 395+ (128GB RAM)**.
