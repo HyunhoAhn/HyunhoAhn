@@ -3,10 +3,8 @@
 **AI Software Engineer @ Qualcomm**  
 On-device AI • Inference Optimization • AI Systems
 
-M.S. in Computer Science & Engineering from The Ohio State University.
-
-I work on efficient AI inference and deployment on target hardware, with a particular interest in the interaction between **models, runtimes, compilers, and heterogeneous accelerators**.
-
+M.S. in Computer Science & Engineering from The Ohio State University.  
+I work on efficient AI inference and deployment on target hardware, with a particular interest in the interaction between **models, runtimes, compilers, and heterogeneous accelerators**.  
 My background spans on-device AI performance, model optimization, and systems research, including LLM/CV benchmarking, quantization, system-level profiling, and distributed inference.
 
 ### 🔬 Areas of Interest
