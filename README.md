@@ -14,7 +14,7 @@ I focus on efficient AI inference and deployment on target hardware, particularl
 
 ## 🚀 Featured Project
 
-### [AI-PC-Perf-Lab](https://github.com/HyunhoAhn/AI-PC-Perf-Lab)
+[AI-PC-Perf-Lab](https://github.com/HyunhoAhn/AI-PC-Perf-Lab)
 
 Experiments and performance analysis for on-device AI workloads on modern AI PC hardware.
 
