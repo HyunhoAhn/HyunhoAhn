@@ -1,23 +1,40 @@
 # Hi, I'm Hyunho (Francis) Ahn 👋
-**AI/ML Engineer** | M.S. from The Ohio State University
 
-*Specializing in optimization and deployment of LLMs/CNNs on distributed & edge systems.*
+**AI Software Engineer @ Qualcomm**  
+On-device AI • Inference Optimization • AI Systems
 
-### 🚀 Core Competencies
-I go beyond running benchmarks. I architect solutions to uncover the "why" behind performance.
-* **Proven Excellence:** Achieved the **highest performance review score** for 2 consecutive years at **AMD** (Intern).
-* **AI Deployment:** Engineered architecture-optimized models to edge devices and developed containerized inference pipelines for scalable distributed systems.
-* **Full-Stack Optimization:** Expert in model quantization (ONNX, QDQ) and system-level bottleneck analysis.
-* **Research:** Published in top journals (Including **IEEE TII, FGCS**, Top 1.8% JCR).
+M.S. in Computer Science & Engineering from The Ohio State University.
 
-### 📊 RyzenAI Performance Logs
-Documenting experiments and performance insights on **Ryzen AI 395+ (128GB RAM)**.
+I work on efficient AI inference and deployment on target hardware, with a particular interest in the interaction between **models, runtimes, compilers, and heterogeneous accelerators**.
 
-🤝 Special thanks to AMD & Framework for sponsoring the hardware (Ryzen AI 395+ Desktop) for this benchmarking project.
+My background spans on-device AI performance, model optimization, and systems research, including LLM/CV benchmarking, quantization, system-level profiling, and distributed inference.
 
-* Check this repo! [AI-PC-Perf-Lab](https://github.com/HyunhoAhn/AI-PC-Perf-Lab)
+### 🔬 Areas of Interest
+- **On-Device AI:** Efficient LLM and vision inference across CPU, GPU, and NPU platforms
+- **AI Performance Engineering:** Benchmarking, profiling, bottleneck analysis, and hardware/software optimization
+- **Model Optimization:** Quantization, deployment workflows, latency and memory optimization
+- **AI Systems:** Runtime behavior, heterogeneous execution, and distributed/edge inference
+
+### 🚀 Featured Project
+
+#### [AI-PC-Perf-Lab](https://github.com/HyunhoAhn/AI-PC-Perf-Lab)
+
+Experiments and performance analysis for on-device AI workloads on modern AI PC hardware.
+
+Current work includes:
+- CPU / GPU / NPU performance characterization
+- LLM and computer vision inference
+- Latency, power and optimization analysis
+- Quantization and runtime experiments
+
+Currently benchmarking on a **Ryzen AI Max+ platform with 128 GB unified memory**.
+
+🤝 Hardware for this project was sponsored by **AMD and Framework**.
+
+### 📚 Research
+My research focuses on efficient AI systems across edge and distributed environments, with publications in venues including **IEEE Transactions on Industrial Informatics, Future Generation Computer Systems, ACM TOSN, and IEEE ICFEC**.
 
 ### 🛠 Technical Stack
-* **Languages:** Python, C/C++, CUDA, Assembly (ARM), SQL
-* **AI & Inference:** PyTorch, TensorFlow, ONNX Runtime, Ryzen AI, TFLite, OpenVINO, QNN, TensorRT
-* **Tools & DevOps:** Docker, Kubernetes, Git
+- **Languages:** Python, C/C++, CUDA, ARM Assembly
+- **AI / Inference:** PyTorch, ONNX Runtime, QNN, Ryzen AI
+- **Systems / Tools:** Docker, Git, Linux, Windows
